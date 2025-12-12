@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nonono & Eber</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Nonono & Eber</h1>
+        <h2>Visual Performers · Clowns · Party Atmosphere Creators</h2>
+    </header>
+
+    <section>
+        <h3>About Us</h3>
+        <p>We are physical actors, visual comedians, and modern clowns trained at the San Francisco Clown Conservatory and the Nouveau Clown Institute in Barcelona, directed by Jango Edwards. We create immersive walk-around performances for electronic music events, festivals, and private parties. We interact with the crowd, spread joy, light, and connection — and bring a theatrical, colorful universe to any dance floor.</p>
+    </section>
+
+    <section>
+        <h3>Festivals & Residencies</h3>
+        <ul>
+            <li>Playa Venao – Resident Artists (The Reactor & Radio Venao), 2024–2025</li>
+            <li>Burning Man 2025</li>
+            <li>The LUT Project – California Desert</li>
+            <li>Private Parties & Events</li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>Gallery</h3>
+        <div class="gallery">
+            <img src="beautiful.jpg">
+            <img src="bees.jpg">
+            <img src="candy.jpg">
+            <img src="crazy.jpg">
+            <img src="family.jpg">
+
+
+    </div>
+    </section>
+
+    <footer>
+        <p>Contact & Booking: nononoandeber@gmail.com</p>
+        <p>Instagram: @nononoandeber</p>
+    </footer>
+</body>
+</html>
